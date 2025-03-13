@@ -40,7 +40,7 @@ function App() {
           "0",
           ".",
           "=",
-          "++",
+          "+",
         ].map((char) => (
           <button
             key={char}
